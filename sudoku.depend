@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1592788617 source:c:\users\silva\desktop\meus arquivos\code blocks\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.c>
+	<ctype.h>
+
+1592788617 source:c:\users\silva\desktop\meus arquivos\code blocks\algoritmos\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.c>
+	<ctype.h>
+
+1592788617 source:c:\users\carlos\desktop\meus arquivos\code blocks\algoritmos\provas e trabalhos\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.c>
+	<ctype.h>
+
